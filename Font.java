@@ -21,7 +21,9 @@ public class Font {
 		System.out.println(fontColor);
 		driver.close();
 		//style on browser 
-//conflict git
+
+		//git conflict
+
 	}
 
 }
